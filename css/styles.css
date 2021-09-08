@@ -75,8 +75,6 @@ p {
 }
 .title-img {
     width: 60%;
-    transform: rotate(25deg);
-    position: absolute;
     right: 25%;
     border-radius: 100%;
 }
@@ -111,11 +109,14 @@ p {
     padding: 7% 15%;
 }
 #madam {
-    color: white;
-    background-image: url(https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif);
+    color: black;
+    background-color: #fff;
     text-align: center;
     padding: 100px;
     margin: 0 auto;
+}
+.pakpak {
+    margin: auto;
 }
 .madam-coloumn {
     padding: 3% 2%;
@@ -150,7 +151,7 @@ p {
 }
 #footer {
     color: white;
-    background-image: url(https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif);
+    background-color: white;
     text-align: center;
     padding: 7% 15%;
 }
